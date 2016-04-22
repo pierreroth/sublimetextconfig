@@ -1,2 +1,2 @@
 # sublimetextconfig
-Sublime Text 2 configuration
+Sublime Text 3 configuration
