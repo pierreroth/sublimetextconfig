@@ -1,15 +1,21 @@
 {
+	"auto_indent": true,
+	"bold_folder_labels": true,
+	"caret_style": "phase",
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"fade_fold_buttons": false,
+	"highlight_line": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
-    "tab_size": 4,
-    "translate_tabs_to_spaces": true,
-    "use_tab_stops": true,
-    "auto_indent": true,
-    "smart_indent": true,
-    "trim_automatic_white_space": true,
-    "trim_trailing_white_space_on_save": true,
-    "ensure_newline_at_eof_on_save": true
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"smart_indent": true,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true,
+	"use_tab_stops": true
 }
